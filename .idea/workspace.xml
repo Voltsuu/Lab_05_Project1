@@ -26,8 +26,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ShipCostCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShipCostCalculator" />
       <module name="Lab_05_Project1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -35,7 +35,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ShipCostCalculator" />
       </list>
     </recent_temporary>
   </component>
